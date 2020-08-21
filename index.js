@@ -1,5 +1,4 @@
 
-
 var randomNumber1 = Math.floor(Math.random() * 6) + 1; // random number between 1 & 6
 
 var randomDiceImage1 = "dice" + randomNumber1 + ".png"; // string between images dice 1 and dice 6
